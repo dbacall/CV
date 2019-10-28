@@ -1,6 +1,15 @@
 ## David Bacall
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am an ambitious junior developer, looking for a role where I can apply my current
+programming knowledge and also develop further as a software engineer.
+
+Having graduated the University of Birmingham with a Maths degree, I spent two years
+travelling around India, tutoring Maths and Physics A-level and GCSE students, and 
+learning guitar and about music in general. I then joined Pwc in a graduate Tax
+technology role. Having found that was not for me, I began learning to code. In 
+coding I found something I found really interesting and loved learning about. So I 
+left Pwc and joined Makers Academy, a 16 week software development bootcamp.
+
 
 ## Skills
 
@@ -23,28 +32,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2019 to Feb 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### ACA (Sep 2018 to Jul 2019)????
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Passed the first 7 exams before deciding it wasn't for me
 
-#### Any other qualifications
+#### University of Birmingham (Oct 2013 to Jun 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Mathematics Bsc
+- 2:1
+
+#### King David High School, Manchester (Sep 2004 to Jun 2011)
+
+- A Levels : A, A, B in Maths, Physics and Biology respectively
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+Pwc (Sep 2018 to Jul 2019)    
+Graduate Tax technology consultant 
 
 **Company Name** (start_date to end_date)   
 *Your job title*  
@@ -52,4 +63,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Guitar : I am a self taught guitarist and love the never ending upwards battle
+to get better.
+- Cooking : 
+- Football, tennis, snooker :
