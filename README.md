@@ -4,9 +4,7 @@ I am an ambitious junior developer, looking for a role where I can apply my curr
 programming knowledge and also develop further as a software engineer.
 
 Having graduated the University of Birmingham with a Maths degree, I spent two years
-travelling around India, tutoring Maths and Physics A-level and GCSE students, and 
-learning guitar and about music in general. I then joined Pwc in a graduate Tax
-technology role. Having found that was not for me, I began learning to code. In 
+travelling around India, tutoring Maths and Physics, learning guitar and about music in general. I then joined Pwc in a graduate Tax technology role. Having found that was not for me, I began learning to code. In 
 coding I found something I found really interesting and loved learning about. So I 
 left Pwc and joined Makers Academy, a 16 week software development bootcamp.
 
@@ -50,7 +48,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### King David High School, Manchester (Sep 2004 to Jun 2011)
 
-- A Levels : A, A, B in Maths, Physics and Biology respectively
+A Levels:  
+- A in Maths
+- A in Physics
+- B in Biology
 
 ## Experience
 
