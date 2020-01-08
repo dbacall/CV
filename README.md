@@ -1,13 +1,25 @@
+## Tech CV notes
+
+Babylon Health - check for jobs
+
+Say why sofware engineering is so important to you
+
+https://blog.makersacademy.com/how-i-evaluate-developers-for-my-team-789276000cab
+
+work experience - keep it lean and concise. keep it relevant to tech. Be prepared to expand about anything you write.
+
 ## David Bacall
 
-I am an ambitious junior developer, looking for a role where I can apply my current
-programming knowledge and also develop further as a software engineer.
+I am an ambitious junior full stack developer. I recently left a role in tax technology consulting 
+hoping to find a career that will satisfy my need for creativity and problem solving.
+Having begun to learn to code and really found enjoyment in it I was lucky enough to
+hear about Makers Academy.
 
-Having graduated the University of Birmingham with a Maths degree, I spent two years
-travelling around India, tutoring Maths and Physics, learning guitar and about music in general. I then joined Pwc in a graduate Tax technology role. Having found that was not for me, I began learning to code. In 
-coding I found something I found really interesting and loved learning about. So I 
-left Pwc and joined Makers Academy, a 16 week software development bootcamp.
-
+I started the course at Makers in October and have learnt many of the cornerstones of what it
+is to be a good coder. With a heavy focus on test driven development, debugging and not just how
+to use one language, but gaining an understanding of what it is that defines a programming language. I now 
+feel confident that I can pick up any programming language in a short space of time and have the 
+necessary skills to add value to your team of developers.
 
 ## Skills
 
