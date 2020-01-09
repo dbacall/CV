@@ -8,6 +8,9 @@ https://blog.makersacademy.com/how-i-evaluate-developers-for-my-team-789276000ca
 
 work experience - keep it lean and concise. keep it relevant to tech. Be prepared to expand about anything you write.
 
+meetups.com
+hackathon.com
+
 ## David Bacall
 
 I am an ambitious junior full stack developer. I recently left a role in tax technology consulting 
