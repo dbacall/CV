@@ -60,15 +60,14 @@ A Levels:
 Pwc (Sep 2018 to Jul 2019)    
 Graduate Tax technology consultant 
 
-Various (Jan 2017 to Jul 2017)
+Various (Jan 2017 to Jul 2017)  
 Maths and Physics A Level and GCSE tutor
 
-S.M Bass & Co (Sep 2016 to Aug 2017)
+S.M Bass & Co (Sep 2016 to Aug 2017)  
 Office Assistant
 
 ## Hobbies
 
-- Guitar : I am a self taught guitarist and love the never ending upwards battle
-to get better.
+- Guitar :
 - Cooking : 
 - Football, tennis, snooker :
