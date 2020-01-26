@@ -27,7 +27,7 @@ During my time as a Maths and Physics tutor much of my success was based on my a
 
 | Name | Description | Technologies | Testing | Link |
 | ---- | ----------- | ------------ | ------- | ---- |
-| Chitter | A Microblogging website | Ruby, Jquery, Sinatra, Bcrypt, Postgres | Rspec, Capybara | https://github.com/dbacall/chitter-challenge/blob/master/README.md | 
+| Chitter | A Microblogging website | Ruby, Jquery, Sinatra, Bcrypt, Postgres | Rspec, Capybara | https://github.com/dbacall/chitter-challenge | 
 | Fatcatstagram | A website for sharing photos of your favourite chubby feline | Rails, Jquery, Active Record | Rspec, Capybara | https://github.com/dbacall/instagram-challenge |
 
 ## Education
