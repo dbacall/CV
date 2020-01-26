@@ -17,7 +17,7 @@ One other big aspect of coding that I really enjoy is the team based side of pro
 
 #### Self Motivator
 
-I believe I am excellent at motivating myself and having the persistence to learn any skill I need to. This is something I struggled with as a teenager, but I really developed in this area during uni when I taught myself how to play guitar. I created a routine that I made sure I did everyday consisting of skills I needed to get better at. Something that was so important in this process was making sure I persisted even in the moments where it seemed I wasn't getting any better. Fighting through these moments really taught me the importance of persistence and overcoming self doubt.
+I am excellent at motivating myself and having the persistence to learn any skill I need to. This is something I struggled with as a teenager, but I really developed in this area during uni when I taught myself how to play guitar. I created a routine that I made sure I did everyday consisting of skills I needed to get better at. Something that was so important in this process was making sure I persisted even in the moments where it seemed I wasn't getting any better. Fighting through these moments really taught me the importance of persistence and overcoming self doubt.
 
 #### Simplifying Complex Topics
 
