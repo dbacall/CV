@@ -21,7 +21,7 @@ During my time as a Maths and Physics tutor much of my success was based on my a
 | Name | Description | Technologies | Testing | Link |
 | ---- | ----------- | ------------ | ------- | ---- |
 | Chitter | A Microblogging website | Ruby, Jquery, Sinatra, Bcrypt, Postgres | Rspec, Capybara | https://github.com/dbacall/chitter-challenge | 
-| Fatcatstagram | A website for sharing photos of your favourite chubby feline | Rails, Jquery, Active Record | Rspec, Capybara | https://github.com/dbacall/instagram-challenge |
+| Facade Brochure | A classy alternative to facebook | Ruby, Rails, Jquery, Active Record | Rspec, Capybara | Github Repo - https://github.com/EManifold/acebook-zuckermen <br> Deployed website - https://intense-stream-74805.herokuapp.com/ |
 | Recispeak | A voice recognition recipe android app | Javascript, React Native, Spoonacular Api, React native voice | Jest, Enzyme | https://github.com/dbacall/Recispeak |
 
 ## Education
@@ -62,6 +62,4 @@ Office Assistant
 
 ## Hobbies
 
-- Guitar :
-- Cooking : 
-- Football, tennis, snooker :
+I am a self taught guitarist and love learning new music and playing with friends. I enjoy playing football, tennis, table tennis and snooker and regularly go to local snooker clubs with friends to remind us how bad we are. I also really enjoy cooking and regularly cook for friends and family. I'm also a bit mad about video gaming, and will gladly organize then win mario kart tournaments to help raise team morale.
