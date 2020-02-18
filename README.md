@@ -1,10 +1,3 @@
-https://blog.makersacademy.com/how-i-evaluate-developers-for-my-team-789276000cab
-
-work experience - keep it lean and concise. keep it relevant to tech. Be prepared to expand about anything you write.
-
-meetups.com
-hackathon.com
-
 ## David Bacall
 
 I am an ambitious full stack developer. After completing a Maths degree, I spent a few years tutoring Maths and Physics, travelling and learning about music. I then started working for Pwc in a tax technology consulting graduate role. However having found no joy or satisfaction in that job, I began to learn to code and found it really enjoyable. So when I heard about Makers, I left that role to try and become a software developer.
