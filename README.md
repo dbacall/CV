@@ -52,7 +52,7 @@ A Levels:
 
 ## Experience
 
-Connected Cognition (Apr 2020 to Jun 2020)
+Connected Cognition (Apr 2020 to Jun 2020)    
 Contract Software Developer
 
 Pwc (Sep 2018 to Jul 2019)    
