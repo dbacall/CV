@@ -52,14 +52,14 @@ A Levels:
 
 ## Experience
 
+Connected Cognition (Apr 2020 to Jun 2020)
+Contract Software Developer
+
 Pwc (Sep 2018 to Jul 2019)    
 Graduate Tax technology consultant 
 
 Various (Jan 2017 to Jul 2017)  
 Maths and Physics A Level and GCSE tutor
-
-S.M Bass & Co (Sep 2016 to Aug 2017)  
-Office Assistant
 
 ## Hobbies
 
